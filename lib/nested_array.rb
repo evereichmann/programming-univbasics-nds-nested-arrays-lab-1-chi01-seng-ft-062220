@@ -32,8 +32,7 @@ def sorted_matrix
   sorted_matrix
 end
 
-def matrix_lookup(matrix, row, column))
-
+def matrix_lookup(matrix, row, column)
 assembled_matrix[1][1]
 end
 
