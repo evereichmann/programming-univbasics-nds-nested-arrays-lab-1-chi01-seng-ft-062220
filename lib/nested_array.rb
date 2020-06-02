@@ -33,8 +33,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column))
-matrix = assembled_matrix
-row = ORGANIC_PRODUCE
+
 assembled_matrix[1][1]
 end
 
