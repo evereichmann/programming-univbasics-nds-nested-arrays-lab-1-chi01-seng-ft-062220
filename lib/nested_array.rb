@@ -39,7 +39,7 @@ def matrix_lookup(matrix, row, column)
     CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE,
   ]
-  grocery_store[1][1]
+  grocery_store[1][3]
 end
 
 def matrix_update(matrix, row, column, new_value)
