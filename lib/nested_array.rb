@@ -32,13 +32,8 @@ def sorted_matrix
   sorted_matrix
 end
 
-def matrix_lookup(matrix, row, column)
-  assembled_matrix = [
-    CONVENTIONAL_PRODUCE,
-    ORGANIC_PRODUCE,
-  ]
-assembled_matrix[1][1]
-
+def matrix_lookup(assembled_matrix, 1, 1)
+matrix_lookup
 end
 
 def matrix_update(matrix, row, column, new_value)
