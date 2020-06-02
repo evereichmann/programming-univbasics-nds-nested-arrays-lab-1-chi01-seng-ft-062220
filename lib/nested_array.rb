@@ -33,11 +33,13 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-ORGANIC_PRODUCE[1]
+puts assembled_matrix[1][1]
+puts sorted_matrix[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
   # Given any matrix (array of arrays), a row index and a column index, 
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix
+  
 end
